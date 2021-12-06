@@ -1,0 +1,6 @@
+[32mINFO    [0m BasePage:BasePage.py:63 Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Login
+[32mINFO    [0m BasePage:BasePage.py:73 Send text on Element with LocatorType: index and with the locatorValue: 3
+[32mINFO    [0m BasePage:BasePage.py:73 Send text on Element with LocatorType: text and with the locatorValue: Enter Password
+[32mINFO    [0m BasePage:BasePage.py:63 Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Btn3
+[32mINFO    [0m BasePage:BasePage.py:73 Send text on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+[32mINFO    [0m BasePage:BasePage.py:63 Clicked on Element with LocatorType: text and with the locatorValue: SUBMIT

@@ -1,0 +1,18 @@
+13/08/21 01:46:39 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/ContactUs
+13/08/21 01:46:40 PM Friday - BasePage - INFO : Element with LocatorType: text and with the locatorValue: Contact Us form is displayed
+13/08/21 01:46:41 PM Friday - BasePage - INFO : Send text on Element with LocatorType: text and with the locatorValue: Enter Name
+13/08/21 01:46:42 PM Friday - BasePage - INFO : Send text on Element with LocatorType: text and with the locatorValue: Enter Email
+13/08/21 01:46:43 PM Friday - BasePage - INFO : Send text on Element with LocatorType: text and with the locatorValue: Enter Address
+13/08/21 01:46:44 PM Friday - BasePage - INFO : Send text on Element with LocatorType: index and with the locatorValue: 4
+13/08/21 01:46:46 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue: SUBMIT
+13/08/21 01:47:04 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Login
+13/08/21 01:47:05 PM Friday - BasePage - INFO : Send text on Element with LocatorType: index and with the locatorValue: 3
+13/08/21 01:47:06 PM Friday - BasePage - INFO : Send text on Element with LocatorType: text and with the locatorValue: Enter Password
+13/08/21 01:47:07 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Btn3
+13/08/21 01:47:32 PM Friday - BasePage - INFO : Element with LocatorType: text and with the locatorValue: Enter Admin is not displayed
+13/08/21 01:47:33 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Login
+13/08/21 01:47:35 PM Friday - BasePage - INFO : Send text on Element with LocatorType: index and with the locatorValue: 3
+13/08/21 01:47:36 PM Friday - BasePage - INFO : Send text on Element with LocatorType: text and with the locatorValue: Enter Password
+13/08/21 01:47:37 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Btn3
+13/08/21 01:47:42 PM Friday - BasePage - INFO : Send text on Element with LocatorType: id and with the locatorValue: com.skill2lead.appiumdemo:id/Edt_admin
+13/08/21 01:47:43 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue: SUBMIT

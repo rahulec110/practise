@@ -1,0 +1,20 @@
+04/07/21 02:22:19 PM Sunday: CRITICAL: This is critical msg
+04/07/21 02:22:19 PM Sunday: ERROR: This is a error msg
+04/07/21 02:22:19 PM Sunday: WARNING: this is warning msg
+04/07/21 02:22:19 PM Sunday: INFO: This is a Info msg
+04/07/21 02:22:19 PM Sunday: DEBUG: This is a Debug msg
+CRITICAL:root:This is critical msg
+ERROR:root:This is a error msg
+WARNING:root:this is warning msg
+INFO:root:This is a Info msg
+DEBUG:root:This is a Debug msg
+20/07/21 09:47:12 AM Tuesday: CRITICAL: This is critical msg
+20/07/21 09:47:12 AM Tuesday: ERROR: This is a error msg
+20/07/21 09:47:12 AM Tuesday: WARNING: this is warning msg
+20/07/21 09:47:12 AM Tuesday: INFO: This is a Info msg
+20/07/21 09:47:12 AM Tuesday: DEBUG: This is a Debug msg
+20/07/21 09:48:41 AM Tuesday: CRITICAL: This is critical msg
+20/07/21 09:48:41 AM Tuesday: ERROR: This is a error msg
+20/07/21 09:48:41 AM Tuesday: WARNING: this is warning msg
+20/07/21 09:48:41 AM Tuesday: INFO: This is a Info msg
+20/07/21 09:48:41 AM Tuesday: DEBUG: This is a Debug msg
